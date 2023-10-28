@@ -42,7 +42,7 @@ update payments set status='DISBURSING' where order_id = 12500;
 
 ## Screenshots
 Topic Snapshot
-![topic snapshot](./img/topic-snapshot.png)
+![topic snapshot](./img/topics-snapshot.png)
 
 Message Snapshot
 ![message snapshot](./img/message-snapshot.png)
