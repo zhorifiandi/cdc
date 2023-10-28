@@ -1,4 +1,5 @@
-# CDC
+# CDC (change-data-capture)
+TL/DR: Forward any changes event on your Postgres table to Kafka using Debezium
 
 ## Setup Local Dependencies
 ```sh
